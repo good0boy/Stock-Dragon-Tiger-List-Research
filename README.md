@@ -12,7 +12,7 @@
 abnormal_code: 异常波动类型（龙虎榜上榜的类型）<br>
 net_value:净额(买入金额 - 卖出金额)<br>
 total_value：买入卖出金额之和（买入金额+卖出金额）<br>
-
+amount:市场总成交额<br>
 
 ## 研究平台：
 聚宽（https://www.joinquant.com/view/user/floor?type=mainFloor）<br>
